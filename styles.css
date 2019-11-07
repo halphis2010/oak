@@ -1,0 +1,26 @@
+.pal{
+	color: water; text-align: justify; background-color: magenta;
+}
+.pal1{
+	color: water; text-align: justify; background-color: magenta;
+}.topnav{
+	margin: 0;
+	padding: 0;
+	background-color: magenta;
+	overflow: hidden;
+}
+
+.topnav2 a{
+	float: left;
+	display: block; 
+	color: white; 
+	text-align: left; 
+	padding: 14px 16px; 
+	text-decoration: none;
+}
+.topnav a:hover {background-color: magenta;
+color: magenta;
+}
+
+	
+}
